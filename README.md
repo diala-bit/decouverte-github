@@ -1,5 +1,6 @@
 # decouverte-github
 Mon premier dépôt GitHub
+*GitHub de Agnès et Diala
 # Ceci est un dépôt pour tester Git/Github
 Je découvre au passage le format `Markdown` qui est souvent utilisé pour rédiger un Readme.
 Ce format n’est **pas une obligation**, mais il offre les **avantages** suivants :
@@ -13,4 +14,5 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - la documentation.
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
 - *Facile à convertir* : peut être exporté en HTML, PDF, Word et d’autres formats.
+
 Petit mémo [ici](https://www.markdownlang.com/fr/cheatsheet/)
