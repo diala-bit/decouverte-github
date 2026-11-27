@@ -1,5 +1,4 @@
 # decouverte-github
-Mon premier dépôt GitHub
 *GitHub de Agnès et Diala
 # Ceci est un dépôt pour tester Git/Github
 Je découvre au passage le format `Markdown` qui est souvent utilisé pour rédiger un Readme.
